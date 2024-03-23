@@ -1,6 +1,4 @@
-# Wishing-Jewel
-
-## Charity Website in React
+# Wishing-Jewel, Charity Website built with React
 
 Built using:
 
